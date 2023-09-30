@@ -15,4 +15,7 @@
 .rating {
     color: yellow;
 }
+img.large {
+    max-width: 100%;
+  }
 
