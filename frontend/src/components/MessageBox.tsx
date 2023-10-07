@@ -4,7 +4,7 @@ export default function MessageBox({
     variant='info',
     children,
 }:{
-    variant:string,
+    variant?:string,
     children: React.ReactNode
 })
 {
